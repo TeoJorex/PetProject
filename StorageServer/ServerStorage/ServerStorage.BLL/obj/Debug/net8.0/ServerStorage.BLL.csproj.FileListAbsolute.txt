@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\ServerStorage\ServerStorage.BLL\obj\Debug\net8.0\ServerStorage.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServerStorage\ServerStorage.BLL\obj\Debug\net8.0\ServerStorage.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServerStorage\ServerStorage.BLL\obj\Debug\net8.0\ServerStorage.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServerStorage\ServerStorage.BLL\obj\Debug\net8.0\ServerStorage.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\ServerStorage\ServerStorage.BLL\obj\Debug\net8.0\ServerStorage.BLL.csproj.CoreCompileInputs.cache

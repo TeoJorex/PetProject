@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ServerStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C61ACA-9C52-474A-A03B-6A2369F6D72A}|ServerStorage\\ServerStorage.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C61ACA-9C52-474A-A03B-6A2369F6D72A}|ServerStorage\\ServerStorage.csproj|solutionrelative:serverstorage\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C61ACA-9C52-474A-A03B-6A2369F6D72A}|ServerStorage\\ServerStorage.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C61ACA-9C52-474A-A03B-6A2369F6D72A}|ServerStorage\\ServerStorage.csproj|solutionrelative:serverstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D8B88A-4AB3-4978-BE54-813F107A4712}|ServerStorage.BLL\\ServerStorage.BLL.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage.bll\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D8B88A-4AB3-4978-BE54-813F107A4712}|ServerStorage.BLL\\ServerStorage.BLL.csproj|solutionrelative:serverstorage.bll\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D8B88A-4AB3-4978-BE54-813F107A4712}|ServerStorage.BLL\\ServerStorage.BLL.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage.bll\\messageconsumerservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D8B88A-4AB3-4978-BE54-813F107A4712}|ServerStorage.BLL\\ServerStorage.BLL.csproj|solutionrelative:serverstorage.bll\\messageconsumerservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27686DE5-05C9-44F0-B03C-3DDF7B21ED88}|ServerStorage.Domain\\ServerStorage.Domain.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage.domain\\models\\vehicleeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27686DE5-05C9-44F0-B03C-3DDF7B21ED88}|ServerStorage.Domain\\ServerStorage.Domain.csproj|solutionrelative:serverstorage.domain\\models\\vehicleeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27686DE5-05C9-44F0-B03C-3DDF7B21ED88}|ServerStorage.Domain\\ServerStorage.Domain.csproj|c:\\users\\user\\source\\repos\\serverstorage\\serverstorage.domain\\models\\vehicleeventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27686DE5-05C9-44F0-B03C-3DDF7B21ED88}|ServerStorage.Domain\\ServerStorage.Domain.csproj|solutionrelative:serverstorage.domain\\models\\vehicleeventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleEventModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.Domain\\Models\\VehicleEventModel.cs",
+              "RelativeDocumentMoniker": "ServerStorage.Domain\\Models\\VehicleEventModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.Domain\\Models\\VehicleEventModel.cs",
+              "RelativeToolTip": "ServerStorage.Domain\\Models\\VehicleEventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:46:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleEventRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.Domain\\Models\\VehicleEventRecord.cs",
+              "RelativeDocumentMoniker": "ServerStorage.Domain\\Models\\VehicleEventRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.Domain\\Models\\VehicleEventRecord.cs",
+              "RelativeToolTip": "ServerStorage.Domain\\Models\\VehicleEventRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:44:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.BLL\\Data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "ServerStorage.BLL\\Data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.BLL\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "ServerStorage.BLL\\Data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:40:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageConsumerService .cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.BLL\\MessageConsumerService .cs",
+              "RelativeDocumentMoniker": "ServerStorage.BLL\\MessageConsumerService .cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage.BLL\\MessageConsumerService .cs",
+              "RelativeToolTip": "ServerStorage.BLL\\MessageConsumerService .cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:38:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage\\Startup\\Startup.cs",
+              "RelativeDocumentMoniker": "ServerStorage\\Startup\\Startup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage\\Startup\\Startup.cs",
+              "RelativeToolTip": "ServerStorage\\Startup\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:37:24.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage\\Program.cs",
+              "RelativeDocumentMoniker": "ServerStorage\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStorage\\ServerStorage\\Program.cs",
+              "RelativeToolTip": "ServerStorage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:36:31.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

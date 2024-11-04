@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\bin\Debug\net8.0\ServerStorage.Domain.deps.json
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\bin\Debug\net8.0\ServerStorage.Domain.dll
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\bin\Debug\net8.0\ServerStorage.Domain.pdb
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.dll
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\refint\ServerStorage.Domain.dll
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ServerStorage.Domain.pdb
+C:\Users\user\source\repos\ServerStorage\ServerStorage.Domain\obj\Debug\net8.0\ref\ServerStorage.Domain.dll

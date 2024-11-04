@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\bin\Debug\net8.0\GateWay.Domain.deps.json
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\bin\Debug\net8.0\GateWay.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\bin\Debug\net8.0\GateWay.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\refint\GateWay.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\GateWay.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\GateWay.Domain\obj\Debug\net8.0\ref\GateWay.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VehicleEmulator.API.props" />
+</Project>

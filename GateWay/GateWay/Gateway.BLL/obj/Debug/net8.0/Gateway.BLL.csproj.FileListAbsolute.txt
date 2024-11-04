@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\bin\Debug\net8.0\Gateway.BLL.deps.json
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\bin\Debug\net8.0\Gateway.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\bin\Debug\net8.0\Gateway.BLL.pdb
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\bin\Debug\net8.0\GateWay.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\bin\Debug\net8.0\GateWay.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway..D7AE1B58.Up2Date
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\refint\Gateway.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\Gateway.BLL.pdb
+C:\Users\user\Desktop\ГК СКАУТ\GateWay\GateWay\Gateway.BLL\obj\Debug\net8.0\ref\Gateway.BLL.dll

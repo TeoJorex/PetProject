@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hWrxisevos8kljfXj1JOg/E1fXJGmt1K5aK04XYB1vI=",
+  "Source": "VehicleEmulator.API",
+  "BasePath": "_content/VehicleEmulator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

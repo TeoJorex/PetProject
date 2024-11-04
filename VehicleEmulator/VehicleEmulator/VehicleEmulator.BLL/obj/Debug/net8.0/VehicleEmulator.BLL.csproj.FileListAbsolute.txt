@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\bin\Debug\net8.0\VehicleEmulator.BLL.deps.json
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\bin\Debug\net8.0\VehicleEmulator.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\bin\Debug\net8.0\VehicleEmulator.BLL.pdb
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\bin\Debug\net8.0\VehicleEmulator.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\bin\Debug\net8.0\VehicleEmulator.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleE.F8B92829.Up2Date
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\refint\VehicleEmulator.BLL.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\VehicleEmulator.BLL.pdb
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.BLL\obj\Debug\net8.0\ref\VehicleEmulator.BLL.dll

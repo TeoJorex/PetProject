@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\bin\Debug\net8.0\VehicleEmulator.Domain.deps.json
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\bin\Debug\net8.0\VehicleEmulator.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\bin\Debug\net8.0\VehicleEmulator.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\refint\VehicleEmulator.Domain.dll
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\VehicleEmulator.Domain.pdb
+C:\Users\user\Desktop\ГК СКАУТ\VehicleEmulator\VehicleEmulator\VehicleEmulator.Domain\obj\Debug\net8.0\ref\VehicleEmulator.Domain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicleEmulator.BLL/1.0.0": {
+        "dependencies": {
+          "VehicleEmulator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VehicleEmulator.BLL.dll": {}
+        }
+      },
+      "VehicleEmulator.Domain/1.0.0": {
+        "runtime": {
+          "VehicleEmulator.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleEmulator.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleEmulator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
